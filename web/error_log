@@ -1,0 +1,2 @@
+[23-Sep-2019 22:12:39 Europe/Helsinki] PHP Parse error:  syntax error, unexpected ']' in /home/vzbxtnem/public_html/views/site/about.php on line 190
+[23-Sep-2019 22:32:01 Europe/Helsinki] PHP Fatal error:  Call to undefined method Yii::app() in /home/vzbxtnem/public_html/views/project/show.php on line 214
